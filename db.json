@@ -2,35 +2,35 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Mouse",
+      "name": "Iphone 16",
       "price": 20.99,
       "category": "Electronics",
       "inStock": true
     },
     {
       "id": 2,
-      "name": "Bluetooth Headphones 2",
+      "name": "samsung 23",
       "price": 39.99,
       "category": "Electronics",
       "inStock": true
     },
     {
       "id": 3,
-      "name": "Running Shoes",
+      "name": "Running good",
       "price": 59.99,
       "category": "Footwear",
       "inStock": false
     },
     {
       "id": 4,
-      "name": "Coffee Mug",
+      "name": "Hello Mug",
       "price": 8.5,
       "category": "Home & Kitchen",
       "inStock": true
     },
     {
       "id": 5,
-      "name": "Notebook",
+      "name": "Macbook",
       "price": 3.25,
       "category": "Stationery",
       "inStock": true

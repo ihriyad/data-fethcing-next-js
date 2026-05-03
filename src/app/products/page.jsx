@@ -3,7 +3,9 @@ import React from "react";
 
 const getProducts = async () => {
   const res = await fetch("http://localhost:5000/products", {
-    cache: "force-cache",
+    // cache: "force-cache", 
+    // cache: "no-store",
+    next: {revalidate: 10}
   });
   if (!res.ok) {
     throw new Error("failed to fetch products data");
